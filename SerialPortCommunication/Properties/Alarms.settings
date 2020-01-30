@@ -1,0 +1,258 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PCComm.Properties" GeneratedClassName="Alarms">
+  <Profiles />
+  <Settings>
+    <Setting Name="Online_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Online</Value>
+    </Setting>
+    <Setting Name="Online_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="OK_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System OK</Value>
+    </Setting>
+    <Setting Name="OK_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="SysVoltLo_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Voltage: Low</Value>
+    </Setting>
+    <Setting Name="SysVoltLo_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="SysVoltLo_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="SysVoltLo_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SysVoltLo_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> V</Value>
+    </Setting>
+    <Setting Name="SysVoltVeryLo_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Voltage: Very Low</Value>
+    </Setting>
+    <Setting Name="SysVoltVeryLo_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="SysVoltVeryLo_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">11.5</Value>
+    </Setting>
+    <Setting Name="SysVoltVeryLo_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SysVoltVeryLo_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> V</Value>
+    </Setting>
+    <Setting Name="SysIntTempHi_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Int. Temperature: High</Value>
+    </Setting>
+    <Setting Name="SysIntTempHi_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="SysIntTempHi_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="SysIntTempHi_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="SysIntTempHi_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">° C</Value>
+    </Setting>
+    <Setting Name="SysIntTempVeryHi_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Int. Temperature: Very High</Value>
+    </Setting>
+    <Setting Name="SysIntTempVeryHi_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="SysIntTempVeryHi_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="SysIntTempVeryHi_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="SysIntTempVeryHi_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">° C</Value>
+    </Setting>
+    <Setting Name="Tamper_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tamper: Loop Open!</Value>
+    </Setting>
+    <Setting Name="Tamper_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Tamper_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="Tamper_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="Tamper_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> V</Value>
+    </Setting>
+    <Setting Name="Timeout_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Module: Unit Timeout!</Value>
+    </Setting>
+    <Setting Name="Timeout_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="Fire_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Fire: Smoke Detected!</Value>
+    </Setting>
+    <Setting Name="Fire_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="Fire_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="Fire_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Fire_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> V</Value>
+    </Setting>
+    <Setting Name="Alarm_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Alarm System: Triggered!</Value>
+    </Setting>
+    <Setting Name="Alarm_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="SysExtTempHi_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Ext. Temperature: High</Value>
+    </Setting>
+    <Setting Name="SysExtTempHi_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="SysExtTempHi_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="SysExtTempHi_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="SysExtTempHi_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">° C</Value>
+    </Setting>
+    <Setting Name="ExtTempLo_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Ext. Temperature Low</Value>
+    </Setting>
+    <Setting Name="ExtTempLo_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="ExtTempLo_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="ExtTempLo_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ExtTempLo_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">° C</Value>
+    </Setting>
+    <Setting Name="BatteryLo_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PC Battery: Low</Value>
+    </Setting>
+    <Setting Name="BatteryLo_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="BatteryLo_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="BatteryLo_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="BatteryLo_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> %</Value>
+    </Setting>
+    <Setting Name="BatteryVeryLo_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PC Battery: Very Low</Value>
+    </Setting>
+    <Setting Name="BatteryVeryLo_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="BatteryVeryLo_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="BatteryVeryLo_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="BatteryVeryLo_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"> %</Value>
+    </Setting>
+    <Setting Name="PowerOffline_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PC Power: Offline</Value>
+    </Setting>
+    <Setting Name="PowerOffline_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Online_Image" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OK_Image" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SysVoltLo_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SysVoltVeryLo_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SysTempHi_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SysTempVeryHi_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Tamper_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Timeout_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Fire_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Alarm_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SysExtTempHi_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtTempLo_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BatteryLo_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BatteryVeryLo_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PowerOffline_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Alarm_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="PowerOffline_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Timeout_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="SysExtTempVeryHi_Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="SysExtTempVeryHi_Denom" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">° C</Value>
+    </Setting>
+    <Setting Name="SysExtTempVeryHi_Limit" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="SysExtTempVeryHi_Text" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System Ext. Temperature: Very High</Value>
+    </Setting>
+    <Setting Name="SysExtTempVeryHi_Value" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="SysExtTempVeryHi_Image" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

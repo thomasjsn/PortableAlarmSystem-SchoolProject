@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PCComm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaudRate" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="DataBits" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="Parity" Type="System.IO.Ports.Parity" Scope="Application">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="StopBits" Type="System.IO.Ports.StopBits" Scope="Application">
+      <Value Profile="(Default)">One</Value>
+    </Setting>
+    <Setting Name="PortName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM?</Value>
+    </Setting>
+    <Setting Name="Location" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Unit #1</Value>
+    </Setting>
+    <Setting Name="AlarmDelayIn" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="AlarmSimulate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MailEnable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MailTO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">recipient1@example.com</Value>
+    </Setting>
+    <Setting Name="MailCC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">recipient2@example.com</Value>
+    </Setting>
+    <Setting Name="MailBlockTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="AlarmResetTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="ErrorHysCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ErrorHysTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="ErrorHysTimer2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="TimeoutTimer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ModuleID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005</Value>
+    </Setting>
+    <Setting Name="FileNameLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LogAll.txt</Value>
+    </Setting>
+    <Setting Name="FileNameAlarm" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LogAlarms.txt</Value>
+    </Setting>
+    <Setting Name="ErrorLED" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ProgramVer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.0.0</Value>
+    </Setting>
+    <Setting Name="Image_Dir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\\WebCam</Value>
+    </Setting>
+    <Setting Name="MailIgnoreCC" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TestMailImg" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProgramName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Serial I/O System</Value>
+    </Setting>
+    <Setting Name="Image_File" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TinCam</Value>
+    </Setting>
+    <Setting Name="Image_Nr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="AlarmDelayOut" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="StartExtApps" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="App1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files (x86)\\USb Missile Launcher\\MissileLauncher.exe</Value>
+    </Setting>
+    <Setting Name="App2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Program Files (x86)\\TinCam\\TinCam.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

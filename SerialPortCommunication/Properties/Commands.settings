@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PCComm.Properties" GeneratedClassName="Commands">
+  <Profiles />
+  <Settings>
+    <Setting Name="iFire" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:i:01</Value>
+    </Setting>
+    <Setting Name="iSysVolt" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:i:02</Value>
+    </Setting>
+    <Setting Name="iTamper" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:i:03</Value>
+    </Setting>
+    <Setting Name="iSysTemp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:i:04</Value>
+    </Setting>
+    <Setting Name="iTemp1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:i:05</Value>
+    </Setting>
+    <Setting Name="iTemp2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:i:06</Value>
+    </Setting>
+    <Setting Name="oBuzzerOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:01:0</Value>
+    </Setting>
+    <Setting Name="oRedLEDOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:02:0</Value>
+    </Setting>
+    <Setting Name="oStrobeOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:03:0</Value>
+    </Setting>
+    <Setting Name="oKeyLEDOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:04:0</Value>
+    </Setting>
+    <Setting Name="oErrLEDOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:05:0</Value>
+    </Setting>
+    <Setting Name="oOutletOff" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:06:0</Value>
+    </Setting>
+    <Setting Name="oBuzzerOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:01:1</Value>
+    </Setting>
+    <Setting Name="oRedLEDOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:02:1</Value>
+    </Setting>
+    <Setting Name="oStrobeOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:03:1</Value>
+    </Setting>
+    <Setting Name="oKeyLEDOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:04:1</Value>
+    </Setting>
+    <Setting Name="oErrLEDOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:05:1</Value>
+    </Setting>
+    <Setting Name="oOutletOn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">005:o:06:1</Value>
+    </Setting>
+    <Setting Name="iFire_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Fire</Value>
+    </Setting>
+    <Setting Name="iSysTemp_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Temp Int.</Value>
+    </Setting>
+    <Setting Name="iSysVolt_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Supply</Value>
+    </Setting>
+    <Setting Name="iTamper_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tamper</Value>
+    </Setting>
+    <Setting Name="iTemp1_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Temp Ext.</Value>
+    </Setting>
+    <Setting Name="iTemp2_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Temp</Value>
+    </Setting>
+    <Setting Name="oBuzzer_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Buzzer</Value>
+    </Setting>
+    <Setting Name="oRedLED_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Alarm LED</Value>
+    </Setting>
+    <Setting Name="oStrobe_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Strobe</Value>
+    </Setting>
+    <Setting Name="oKeyLED_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Keypad LED</Value>
+    </Setting>
+    <Setting Name="oErrLED_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Error LED</Value>
+    </Setting>
+    <Setting Name="oOutlet_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Power Outlet</Value>
+    </Setting>
+    <Setting Name="Battery_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Battery</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
